@@ -1,0 +1,118 @@
+/* GLOBAL */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* BG COLOR */
+.bg-dark {
+    background-color: #000000 !important;
+}
+
+.bg-dark-alt {
+    background-color: #252525;
+}
+
+
+/* TEXT */
+section {
+    padding: 100px 0;
+}
+
+section .header-title {
+    font-size: 90px;
+}
+
+section .header-subtitle {
+    font-size: 30px;
+}
+
+section .experience-title {
+    font-size: 30px;
+}
+
+section .experience-subtitle {
+    font-size: 20px;
+}
+
+section .experience-article {
+    font-size: 16px;
+}
+
+.text-primary {
+    color: #A7D129 !important;
+}
+
+.text-secondary {
+    color: #A7D129 !important;
+} 
+
+.text-paragraph {
+    color: whitesmoke;
+}
+
+/* HEADER */
+.header-section .header-title {
+    color: whitesmoke;
+}
+
+.header-section .header-subtitle {
+    color: #A7D129;
+}
+
+.header-section .header-img {
+    width:300px;
+    height:400px;
+    float: right;
+}
+
+
+/* NAVBAR */
+.navbar .nav-item .nav-link:hover,
+.navbar .nav-item .nav-link.active {
+    color: #A7D129;
+}
+
+/* SKILL */
+.skill-section .progress-bar {
+   width: 100%;
+   height: 10px;
+   border-radius: 10px;
+   background-color: #252525;
+}
+
+.skill-section .progress-bar .progress {
+    background-color: #A7D129; 
+}
+
+.skill-section .skill-title {
+    font-size: 30px;
+}
+
+.header-section .header-skill {
+    color: whitesmoke;
+}
+
+.header-section .header-skill:hover {
+    color:#A7D129;
+}
+
+/* FOOTER */
+.section-footer {
+    background-color: #A7D129;
+}
+.text-footer {
+    font-size: 14px;
+    color: #000000;
+}
+
+/* BUTTON */
+
+.btn-outline-secondary:hover {
+    color: #A7D129 !important;
+}
