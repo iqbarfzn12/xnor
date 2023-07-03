@@ -18,6 +18,10 @@ img {
     background-color: #252525;
 }
 
+.bg-light {
+    background-color: #A7D129 !important;
+}
+
 
 /* TEXT */
 section {
@@ -78,6 +82,10 @@ section .experience-article {
     color: #A7D129;
 }
 
+.nav-link {
+    font-size: 17px;
+}
+
 /* SKILL */
 .skill-section .progress-bar {
    width: 100%;
@@ -111,7 +119,7 @@ section .experience-article {
     color: #000000;
 }
 
-/* BUTTON */
+/* ANCHOR BUTTON */
 
 .btn-outline-secondary:hover {
     color: #A7D129 !important;
