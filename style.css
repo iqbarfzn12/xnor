@@ -75,6 +75,21 @@ section .experience-article {
     float: right;
 }
 
+/*ABOUT*/
+.about-section .table-responsive {
+    font-size: 16px;
+    color: whitesmoke;
+    width: 100%;
+    padding: 5px;
+    border-collapse: collapse;
+}
+.about-section .table-img {
+    height:480px;
+    width:370px;
+    float: left;
+}
+
+
 
 /* NAVBAR */
 .navbar .nav-item .nav-link:hover,
@@ -83,8 +98,9 @@ section .experience-article {
 }
 
 .nav-link {
-    font-size: 17px;
+    font-size: 15px;
 }
+
 
 /* SKILL */
 .skill-section .progress-bar {
@@ -108,6 +124,11 @@ section .experience-article {
 
 .header-section .header-skill:hover {
     color:#A7D129;
+}
+
+/*GALLERY*/
+.carousel-item {
+    height:530px;
 }
 
 /* FOOTER */
